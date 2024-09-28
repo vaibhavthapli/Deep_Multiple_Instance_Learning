@@ -16,5 +16,5 @@ Bag-Level: In MIL, the data is organized into bags, and each bag contains multip
           <li>A negative bag is labeled negative if all instances within the bag are negative.</li>
       </ul>  
 The challenge in MIL is that the model needs to infer the labels of individual instances within the bags based on the bag-level labels, which makes it a more complex problem compared to traditional supervised learning.
-<img src=>
+<img src='https://github.com/user-attachments/assets/b80e7464-53b1-4943-a56a-17faa673e324'>
 <img src=>
